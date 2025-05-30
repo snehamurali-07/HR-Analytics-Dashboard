@@ -1,0 +1,2 @@
+# HR-Analytics-Dashboard
+Explore this Power BI project focused on HR analytics, specifically targeting employee attrition. This dynamic dashboard provides a comprehensive view of attrition trends, helping stakeholders understand key factors contributing to turnover. Leveraging interactive visualizations, it empowers HR professionals and business leaders to identify patterns, pinpoint areas of concern, and develop targeted retention strategies.
